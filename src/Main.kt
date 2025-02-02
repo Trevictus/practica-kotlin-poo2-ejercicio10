@@ -6,9 +6,9 @@ fun main() {
 
     val tablero = Tablero(
         arrayOf(
-            arrayOf('x', 'o', 'x'),
-            arrayOf('o', 'o', 'x'),
-            arrayOf('o', 'x', ' ')
+            arrayOf(' ', ' ', ' '),
+            arrayOf(' ', ' ', ' '),
+            arrayOf(' ', ' ', ' ')
         )
     )
 
