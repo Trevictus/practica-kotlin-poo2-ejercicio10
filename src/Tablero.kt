@@ -3,7 +3,7 @@ class Tablero(var tablero: Array<Array<Char>>) {
     fun dibujarTablero() {
         for (fila in tablero) {
             for (columna in fila) {
-                print("[$columna ]")
+                print("[$columna]")
             }
             println()
         }
